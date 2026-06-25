@@ -7,13 +7,13 @@
   /* @colorThemes/lightTheme/grayNavyBlue */
   --background: #e3deea;
   --card: #ffffff;
-  --foreground: #1f2027;
-  --primary-cta: #1f2027;
+  --foreground: #27231f;
+  --primary-cta: #27231f;
   --primary-cta-text: #e3deea;
   --secondary-cta: #ffffff;
-  --secondary-cta-text: #1f2027;
-  --accent: #627dc6;
-  --background-accent: #627dc6;
+  --secondary-cta-text: #27231f;
+  --accent: #c68a62;
+  --background-accent: #c68a62;
 
   /* @layout/border-radius/rounded */
   --radius: 0.5rem;
