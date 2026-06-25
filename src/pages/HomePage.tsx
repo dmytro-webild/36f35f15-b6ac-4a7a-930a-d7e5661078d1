@@ -36,7 +36,7 @@ export default function HomePage() {
       quote="For those who love exotic cuisine, this Indian market is a godsend. You can find everything from essentials to specialized spices that elevate every dish."
       author="Ombretta C."
       role="Local Guide"
-      imageSrc="https://images.pexels.com/photos/12252365/pexels-photo-12252365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=12252365"
+      imageSrc="https://images.pexels.com/photos/27175527/pexels-photo-27175527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=27175527"
     />
     </SectionErrorBoundary>
   </div>
