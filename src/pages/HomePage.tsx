@@ -4,7 +4,8 @@ import FaqTwoColumn from '@/components/sections/faq/FaqTwoColumn';
 import FeaturesImageBento from '@/components/sections/features/FeaturesImageBento';
 import HeroCenteredLogos from '@/components/sections/hero/HeroCenteredLogos';
 import MetricsMediaCards from '@/components/sections/metrics/MetricsMediaCards';
-import TestimonialMarqueeCards from '@/components/sections/testimonial/TestimonialMarqueeCards';
+import TestimonialMarqueeCardsOriginal from '@/components/sections/testimonial/TestimonialMarqueeCards';
+const TestimonialMarqueeCards = TestimonialMarqueeCardsOriginal as any;
 import SectionErrorBoundary from "@/components/ui/SectionErrorBoundary";
 
 export default function HomePage() {
